@@ -1,4 +1,4 @@
-# Operation-System-Codes
+# Operating-System-Codes
 C implementation of important OS concepts. Most of them are from book "Operating Systems: Three Easy Pieces". https://pages.cs.wisc.edu/~remzi/OSTEP/
 
 
